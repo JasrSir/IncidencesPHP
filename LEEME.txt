@@ -1,0 +1,15 @@
+Bienvenido a las Incidencias de un Aula por Juan Antonio Suárez Rosa
+
+Instrucciones de uso:
+- Carpeta sql donde se encuentra el archivo a cargar en la base de datos
+- ROOT = superprofe
+- Profes = Lourdes, Sebastian, Juan
+- contraseña maestra = 123
+
+Está configurado para crear un nuevo usuario que NO ES www-data
+Lo he probado en 2 PC y espero que no de problemas.
+
+
+
+
+siento las molestias.

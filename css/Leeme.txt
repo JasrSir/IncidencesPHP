@@ -1,0 +1,3 @@
+Este es el fichero en el que se muestra y desarrolla cómo vamos a realizar el Login en PHP para conectarse a la base de datos
+https://diego.com.es/sesiones-en-php
+https://diego.com.es/certificacion-php
